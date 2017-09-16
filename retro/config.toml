@@ -1,5 +1,5 @@
 
-baseurl = "http://yoursite.tld"
+baseurl = "http://sidmusa.github.io/retrofulhugo"
 languageCode = "en-us"
 title = "Retroful Hugo"
 theme = "retrofulhugo"
